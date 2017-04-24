@@ -1,12 +1,10 @@
 ## Welcome to Dave's Github Page
 
-You can use the [editor on GitHub](https://github.com/davedavis/davedavis.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is just my personal space on Github to play around with the sites repo and highlight any repos I think might be useful. Really, if you're here, you're probably looking for something else. 
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is just me playing around with Markdown for the moment. 
 
 ```markdown
 Syntax highlighted code block
