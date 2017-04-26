@@ -26,10 +26,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### What's Coming
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davedavis/davedavis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Not much at the moment to be honest. All porjects for summer have already kicked off in their individual repos and organization accounts. 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can reach me on [Twitter](https://twitter.com/davedavis/) or email me to get in touch. 
