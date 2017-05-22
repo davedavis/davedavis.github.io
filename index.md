@@ -6,11 +6,10 @@ This is just my personal space on Github to play around with the sites repo and 
 
 # GA Sale Notification Android App
 ## Gnome 3 Applet (GA?)
-City Weather Conversion Data
+- City Weather Conversion Data
 
 
 [Link](url) and ![Image](src)
-```
 
 
 ### What's Coming
