@@ -2,21 +2,16 @@
 
 This is just my personal space on Github to play around with the sites repo and highlight any repos I think might be useful. Really, if you're here, you're probably looking for something else. 
 
-### Markdown
+### Current Projects
 
-This is just me playing around with Markdown for the moment. 
-
-```markdown
-Syntax highlighted code block
-
-# welcome to my site
-## Summer projects will be posted here. 
+# GA Sale Notification Android App
+## Gnome 3 Applet (GA?)
+City Weather Conversion Data
 
 
 [Link](url) and ![Image](src)
 ```
 
-Testing Jekyl build processes.
 
 ### What's Coming
 
