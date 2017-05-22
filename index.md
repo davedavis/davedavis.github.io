@@ -2,14 +2,11 @@
 
 This is just my personal space on Github to play around with the sites repo and highlight any repos I think might be useful. Really, if you're here, you're probably looking for something else. 
 
-### Current Projects
+# Current Projects
 
-# GA Sale Notification Android App
-## Gnome 3 Applet (GA?)
+- GA Sale Notification Android App
+- Gnome 3 Applet (GA?)
 - City Weather Conversion Data
-
-
-[Link](url) and ![Image](src)
 
 
 ### What's Coming
