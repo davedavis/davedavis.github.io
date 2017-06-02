@@ -7,6 +7,8 @@ This is just my personal space on Github to play around with the sites repo and 
 - GA Sale Notification Android App
 - Gnome 3 Applet (GA?)
 - City Weather Conversion Data
+- Deeper insights (secret) 
+- Content CRM 
 
 
 ### What's Coming
