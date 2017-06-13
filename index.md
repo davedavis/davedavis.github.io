@@ -5,10 +5,11 @@ This is just my personal space on Github to play around with the sites repo and 
 ## Current Projects
 
 - GA Sale Notification Android App
-- Gnome 3 Applet (GA?)
+- Gnome 3 Applet (GA?) - Sales Alert
 - City Weather Conversion Data
 - Deeper insights (secret) 
-- Content CRM 
+- Content CRM (Secret)
+- Speedtest Chron & Grapher that triggers a Tracert to monitor connectivity degredation on weekends
 
 
 ### What's Coming
