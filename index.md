@@ -9,6 +9,7 @@ This is just my personal space on Github to play around with the sites repo and 
 - City Weather Conversion Data
 - Deeper insights (secret) 
 - Content CRM (Secret)
+- RSS reader with multi device subscription 
 - Speedtest Chron & Grapher that triggers a Tracert to monitor connectivity degredation on weekends
 
 
