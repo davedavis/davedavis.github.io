@@ -11,11 +11,14 @@ This is just my personal space on Github to play around with the sites repo and 
 - Content CRM (Secret)
 - RSS reader with multi device subscription 
 - Speedtest Chron & Grapher that triggers a Tracert to monitor connectivity degredation on weekends
+- [BabaTrack](https://github.com/davedavis/BabaTrack) Android App to play and track sounds that your baby responds to. 
+
+
 
 
 ### What's Coming
 
-Not much at the moment to be honest. All porjects for summer have already kicked off in their individual repos and organization accounts. 
+Not much at the moment to be honest. All projects for summer have already kicked off in their individual repos and organization accounts. 
 
 ### Contact
 
